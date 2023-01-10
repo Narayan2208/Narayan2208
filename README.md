@@ -60,9 +60,10 @@
 
 <h2 align="center"> 📊 Github Stats </h2>
 
-
-![](https://github-readme-stats.vercel.app/api?username=Narayan2208&theme=merko&hide_border=false&include_all_commits=true&count_private=true) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Narayan2208&theme=merko&hide_border=false)<br/>
+<div align="center">
+<img src= "https://github-readme-stats.vercel.app/api?username=Narayan2208&theme=merko&hide_border=false&include_all_commits=true&count_private=true" />
+<img src= "https://github-readme-streak-stats.herokuapp.com/?user=Narayan2208&theme=merko&hide_border=false" /> <br/>
+</div>
 
 <div align="center">
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Narayan2208&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
