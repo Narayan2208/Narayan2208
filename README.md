@@ -3,6 +3,7 @@
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" >
 </div>
 
+
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Narayan Dutta</h1>
@@ -84,6 +85,9 @@
 </div>
 
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+
+
 
 <div align="center">
 <img src= "https://media2.giphy.com/media/5xtDarmwsuR9sDRObyU/giphy.gif?cid=ecf05e475umbdjo944srf0jjqukjmklmdap60uxka1m3gxdc&rid=giphy.gif&ct=g" />
