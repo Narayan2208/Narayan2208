@@ -19,7 +19,7 @@
 <!-- https://miro.medium.com/max/828/1*IRGHmiGsa16stedQvIaZfw.gif -->
 - 🔭 I’m currently working on `Something Intresting`.
 
-- 🌱 I’m currently learning `MERN Stack`
+- 🌱 I’m currently working as a `MERN Stack Developer`
 
 - 👯 I’m looking to collaborate for `Projects`
 
